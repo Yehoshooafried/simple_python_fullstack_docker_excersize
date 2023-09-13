@@ -1,0 +1,42 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Local development and runtime files
+*.pyc
+*.pyo
+*.pyd
+db.sqlite
+instance/
+
+# IDE and text editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables (if you use a .env file)
+.env
+
+# Python cache directories
+__pycache__/
+
+# Logs
+logs/
+
+# Compiled bytecode (Python 3.2+)
+__pycache__/
+*.pyc
+
+# macOS specific files
+.DS_Store
+
+# Windows thumbnail files
+Thumbs.db
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
